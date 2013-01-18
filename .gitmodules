@@ -1,0 +1,24 @@
+[submodule "bundle/vim-pathogen"]
+	path = bundle/vim-pathogen
+	url = https://github.com/tpope/vim-pathogen.git
+[submodule "bundle/vim-command-T"]
+	path = bundle/vim-command-T
+	url = https://github.com/tpope/vim-pathogen.git
+[submodule "vim/bundle/vim-fugitive"]
+	path = vim/bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "bundle/vim-rails"]
+	path = bundle/vim-rails
+	url = https://github.com/vim-scripts/rails.vim.git
+[submodule "bundle/vim-nerdtree"]
+	path = bundle/vim-nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/vim-colour-schemes"]
+	path = bundle/vim-colour-schemes
+	url = https://github.com/daylerees/colour-schemes.git
+[submodule "bundle/colorschemes"]
+	path = bundle/colorschemes
+	url = https://github.com/flazz/vim-colorschemes.git
+[submodule "bundle/colors"]
+	path = bundle/colors
+	url = https://github.com/flazz/vim-colorschemes.git
