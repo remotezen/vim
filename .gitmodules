@@ -43,3 +43,18 @@
 [submodule "bundle/vim-proton"]
 	path = bundle/vim-proton
 	url = https://github.com/vim-scripts/proton.git
+[submodule "bundle/vim-sparkup"]
+	path = bundle/vim-sparkup
+	url = https://github.com/tristen/vim-sparkup.git
+[submodule "bundle/vim-gundo"]
+	path = bundle/vim-gundo
+	url = https://github.com/sjl/gundo.vim.git
+[submodule "bundle/vim-supertab"]
+	path = bundle/vim-supertab
+	url = https://github.com/ervandew/supertab.git
+[submodule "bundle/vim-project"]
+	path = bundle/vim-project
+	url = https://github.com/vimcn/project.vim.git
+[submodule "bundle/vim-ctrlp"]
+	path = bundle/vim-ctrlp
+	url = https://github.com/kien/ctrlp.vim.git
