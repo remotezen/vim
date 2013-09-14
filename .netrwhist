@@ -1,7 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/home/grit/.oh-my-zsh'
 let g:netrw_dirhist_2='/home/grit'
 let g:netrw_dirhist_3='/home/grit/.oh-my-zsh'
 let g:netrw_dirhist_4='/home/grit'
 let g:netrw_dirhist_5='/home/grit/Downloads'
+let g:netrw_dirhist_6='/home/grit/Programming/Rails/Tutorial/snorkel'
+let g:netrw_dirhist_7='/home/grit/Programming/Rails/Notes'
+let g:netrw_dirhist_8='/home/grit/Programming/Rails/Tutorial/snorkel'
